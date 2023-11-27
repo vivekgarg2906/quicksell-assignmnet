@@ -1,4 +1,6 @@
 Task Assignment Platform
+Link to Hosted App ```https://quicksell-project-frontend.netlify.app/```
+
 Welcome to the Task Assignment Platform, a project built with React.js, Vite.js, and Material-UI. This platform is designed to streamline task assignment processes within a company for software developers, allowing clients and team members to assign tasks to developers who can then efficiently manage, control, and group tasks based on various criteria such as task status, user assignment, or task priority.
 
 Getting Started
@@ -12,26 +14,27 @@ npm: npm is included with Node.js installation.
 Installation
 Clone the repository to your local machine:
 
-bash
+```
 Copy code
-git clone https://github.com/your-username/task-assignment-platform.git
+git clone https://github.com/vivekgarg2906/quicksell-assignment.git
 Navigate to the project directory:
-
-bash
+```
+```
 Copy code
 cd task-assignment-platform
 Install project dependencies:
-
-bash
+```
+```
 Copy code
 npm install
 Running the Project
 Once the installation is complete, you can run the project locally:
-
-bash
+```
+```
 Copy code
 npm run dev
 This command starts the development server. Open your browser and navigate to http://localhost:3000 to view the application.
+```
 
 Features
 Task Assignment: Clients and team members can assign tasks to developers.
