@@ -1,0 +1,10 @@
+.container2{
+    display: flex;
+}
+
+.icons{
+    display: flex;
+    width: 400px;
+    align-items: center;
+    margin: 0px 20px;
+}

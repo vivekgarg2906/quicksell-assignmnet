@@ -1,0 +1,10 @@
+.container-home{
+    background-color: white;
+    width: 100%;
+}
+
+div.zoomed { 
+    zoom: 0.58; 
+    -moz-transform: scale(3); 
+    -moz-transform-origin: 0 0;
+} 

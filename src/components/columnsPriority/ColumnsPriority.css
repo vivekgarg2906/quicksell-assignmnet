@@ -1,0 +1,39 @@
+.container2{
+    display: flex;
+}
+
+.icons-1{
+    display: flex;
+    width: 360px;
+    margin: 0px 20px;
+    align-items: center;
+}
+
+.priority-icon{
+    margin-left: 10px;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.entries{
+    color: gray;
+    margin-left: 10px;
+}
+
+.heading-add{
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    margin-left: 300px;
+    cursor: pointer;
+}
+
+.opt1{
+    position: absolute;
+    margin-left: 325px;
+    cursor: pointer;
+}
